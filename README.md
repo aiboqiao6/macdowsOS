@@ -11,6 +11,8 @@
 
 [macdowsOS Files](https://github.com/aiboqiao6/macdowsOS-Files) 基于 Qt 的仿 macOS 文件管理器
 
+[macdowsOS WindowChanger](https://github.com/aiboqiao6/macdowsOS-WindowChanger) 适用于Windows的仿macOS通用窗口样式注入框架
+
 未来计划
 
 macdowsOS Setting
